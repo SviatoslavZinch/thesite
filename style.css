@@ -2,6 +2,7 @@ body{
   background:linear-gradient(to top right, #8E9FED, #94C0F7);
   display:flex;
   flex-direction:column;
+  align-items:center;
 }
 .h1_princ{
   font-size:40px;
