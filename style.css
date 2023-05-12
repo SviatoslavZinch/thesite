@@ -2,8 +2,8 @@ body{
   background:linear-gradient(to top right, #8E9FED, #94C0F7);
 }
 .h1_princ{
-  font-size:10%;
+  font-size:40px;
   font-family:"arial black";
   color:#8EEDD6;
-  text-shadow: 2% 2% 4% rgba(66, 68, 90, 1);
+  text-shadow: 5px 5px 8px rgba(66, 68, 90, 1);
 }
