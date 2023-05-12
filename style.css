@@ -1,12 +1,24 @@
+html{
+  width:100%;
+  height:100%;
+}
 body{
   background:linear-gradient(to top right, #8E9FED, #94C0F7);
   display:flex;
   flex-direction:column;
   align-items:center;
+  width:100%;
+  height:100%;
+  padding:0;
 }
 .h1_princ{
   font-size:70px;
   font-family:"arial black";
   color:#8EEDD6;
   text-shadow: 5px 5px 8px rgba(66, 68, 90, 1);
+}
+.line1{
+  background-color:#E0A8B2;
+  height:40px;
+  width:100%;
 }
