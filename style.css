@@ -5,6 +5,8 @@ html{
 }
 body{
   background:linear-gradient(to top right, #8E9FED, #94C0F7);
+  background-size:cover;
+  background-repeat:no-repeat;
   display:flex;
   flex-direction:column;
   align-items:center;
